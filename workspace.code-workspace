@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Opd32-Eventhandlers--defer",
+			"path": "..\\Opd32-Eventhandlers--defer"
+		},
+		{
+			"name": "Game-Guess-the-number",
+			"path": "..\\Game-Guess-the-number"
+		},
+		{
+			"name": "iterators-oude-en-nieuwe-stijl",
+			"path": "..\\iterators-oude-en-nieuwe-stijl"
+		},
+		{
+			"name": "While-loops-for-loops-exercise",
+			"path": "..\\While-loops-for-loops-exercise"
+		},
+		{
+			"name": "Functions-calling-functions",
+			"path": "..\\Functions-calling-functions"
+		},
+		{
+			"name": "fuction-three-ways-to-write",
+			"path": "..\\fuction-three-ways-to-write"
+		},
+		{
+			"name": "Opd-return-statements",
+			"path": "..\\Opd-return-statements"
+		},
+		{
+			"name": "Function-arguments-exercise",
+			"path": "..\\Function-arguments-exercise"
+		},
+		{
+			"name": "Function-basics-exercise",
+			"path": "..\\Function-basics-exercise"
+		}
+	],
+	"settings": {}
+}
